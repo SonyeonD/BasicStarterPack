@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="TestBot5">
+      <HintPath>TestBot5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
